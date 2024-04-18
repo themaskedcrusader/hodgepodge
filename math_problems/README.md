@@ -14,3 +14,5 @@ My code assumes that the right-most-leaf is any leaf on the node with the most l
 ## MPMP: The 1 Million Bank Balance Puzzle
 see: https://www.youtube.com/watch?v=ILrqPpLpwpE
 
+## Witness Numbers:
+see: https://www.youtube.com/watch?v=_MscGSN5J6o
