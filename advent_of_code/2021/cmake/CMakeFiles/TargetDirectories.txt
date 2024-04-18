@@ -1,0 +1,12 @@
+/home/cschalk/projects/advent_of_code/2021/cmake/CMakeFiles/rebuild_cache.dir
+/home/cschalk/projects/advent_of_code/2021/cmake/CMakeFiles/03a-test.dir
+/home/cschalk/projects/advent_of_code/2021/cmake/CMakeFiles/02a.dir
+/home/cschalk/projects/advent_of_code/2021/cmake/CMakeFiles/03a.dir
+/home/cschalk/projects/advent_of_code/2021/cmake/CMakeFiles/01b-test.dir
+/home/cschalk/projects/advent_of_code/2021/cmake/CMakeFiles/02b.dir
+/home/cschalk/projects/advent_of_code/2021/cmake/CMakeFiles/01b.dir
+/home/cschalk/projects/advent_of_code/2021/cmake/CMakeFiles/01a-test.dir
+/home/cschalk/projects/advent_of_code/2021/cmake/CMakeFiles/edit_cache.dir
+/home/cschalk/projects/advent_of_code/2021/cmake/CMakeFiles/02b-test.dir
+/home/cschalk/projects/advent_of_code/2021/cmake/CMakeFiles/02a-test.dir
+/home/cschalk/projects/advent_of_code/2021/cmake/CMakeFiles/01a.dir

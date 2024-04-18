@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -g CMakeFiles/day_01_part_01.dir/advent/day_01_part_01.cpp.o -o day_01_part_01 

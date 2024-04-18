@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -g CMakeFiles/01a.dir/advent/01a.cpp.o -o 01a 

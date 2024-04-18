@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -g -rdynamic CMakeFiles/challenge_214.dir/easy/challenge_214.cpp.o -o challenge_214 

@@ -1,0 +1,2066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="codeeval"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_157">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_157" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_157"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_157/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_157" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_157/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_89">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_89" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_89"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_89/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_89" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_89/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_237">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_237" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_237"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_237/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_237" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_237/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_52">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_52" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_52"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_52/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_52" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_52/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_220">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_220" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_220"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_220/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_220" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_220/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_214">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_214" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_214"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_214/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_214" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_214/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_16">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_16" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_16"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_16/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_16" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_16/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_199">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_199" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_199"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_199/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_199" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_199/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_183">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_183" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_183"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_183/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_183" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_183/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_222">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_222" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_222"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_222/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_222" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_222/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_167">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_167" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_167"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_167/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_167" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_167/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_23">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_23" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_23"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_23/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_23" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_23/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_22">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_22" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_22"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_22/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_22" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_22/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_03">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_03" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_03"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_03/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_03" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_03/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_205">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_205" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_205"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_205/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_205" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_205/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_19">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_19" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_19"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_19/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_19" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_19/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_21">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_21" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_21"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_21/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_21" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_21/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_239">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_239" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_239"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_239/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_239" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_239/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_27">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_27" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_27"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_27/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_27" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_27/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_01">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_01"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_01/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_01/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_26">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_26" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_26"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_26/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_26" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_26/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_20">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_20" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_20"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_20/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_20" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_20/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_08">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_08" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_08"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_08/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_08" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_08/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_83">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_83" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_83"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_83/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_83" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_83/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_93">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_93" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_93"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_93/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_93" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_93/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_15">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_15" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_15"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_15/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_15" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_15/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_25">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_25" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_25"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_25/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_25" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_25/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_240">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_240" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_240"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_240/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_240" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_240/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_39">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_39" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_39"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_39/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_39" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_39/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_12">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_12" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_12"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_12/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_12" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_12/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_24">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_24" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_24"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_24/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_24" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_24/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_29">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_29" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_29"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_29/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_29" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_29/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_91">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_91" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_91"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_91/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_91" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_91/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_235">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_235" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_235"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_235/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_235" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_235/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_208">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_208" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_208"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_208/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_208" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_208/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_04">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_04" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_04"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_04/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_04" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_04/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_113">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_113" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_113"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_113/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_113" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_113/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_46">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_46" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_46"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_46/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_46" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_46/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_122">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_122" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_122"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_122/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_122" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_122/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_18">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_18" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_18"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_18/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_18" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_18/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_140">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_140" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_140"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_140/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_140" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_140/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_158">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_158" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_158"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_158/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_158" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_158/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_156">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_156" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_156"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="challenge_156/fast">
+				<Option output="/home/cschalk/projects/codeeval/cpp/cmake-build-debug/challenge_156" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cschalk/projects/codeeval/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 challenge_156/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cschalk/projects/codeeval/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_01.cpp">
+			<Option target="challenge_01"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_03.cpp">
+			<Option target="challenge_03"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_04.cpp">
+			<Option target="challenge_04"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_08.cpp">
+			<Option target="challenge_08"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_113.cpp">
+			<Option target="challenge_113"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_122.cpp">
+			<Option target="challenge_122"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_140.cpp">
+			<Option target="challenge_140"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_156.cpp">
+			<Option target="challenge_156"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_167.cpp">
+			<Option target="challenge_167"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_18.cpp">
+			<Option target="challenge_18"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_183.cpp">
+			<Option target="challenge_183"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_19.cpp">
+			<Option target="challenge_19"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_199.cpp">
+			<Option target="challenge_199"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_20.cpp">
+			<Option target="challenge_20"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_205.cpp">
+			<Option target="challenge_205"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_208.cpp">
+			<Option target="challenge_208"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_21.cpp">
+			<Option target="challenge_21"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_214.cpp">
+			<Option target="challenge_214"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_22.cpp">
+			<Option target="challenge_22"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_220.cpp">
+			<Option target="challenge_220"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_222.cpp">
+			<Option target="challenge_222"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_23.cpp">
+			<Option target="challenge_23"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_235.cpp">
+			<Option target="challenge_235"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_237.cpp">
+			<Option target="challenge_237"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_24.cpp">
+			<Option target="challenge_24"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_240.cpp">
+			<Option target="challenge_240"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_25.cpp">
+			<Option target="challenge_25"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_26.cpp">
+			<Option target="challenge_26"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_29.cpp">
+			<Option target="challenge_29"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_39.cpp">
+			<Option target="challenge_39"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_83.cpp">
+			<Option target="challenge_83"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_91.cpp">
+			<Option target="challenge_91"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/easy/challenge_93.cpp">
+			<Option target="challenge_93"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/hard/challenge_157.cpp">
+			<Option target="challenge_157"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/hard/challenge_239.cpp">
+			<Option target="challenge_239"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/hard/challenge_52.cpp">
+			<Option target="challenge_52"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/moderate/challenge_12.cpp">
+			<Option target="challenge_12"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/moderate/challenge_15.cpp">
+			<Option target="challenge_15"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/moderate/challenge_158.cpp">
+			<Option target="challenge_158"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/moderate/challenge_16.cpp">
+			<Option target="challenge_16"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/moderate/challenge_27.cpp">
+			<Option target="challenge_27"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/moderate/challenge_46.cpp">
+			<Option target="challenge_46"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/moderate/challenge_89.cpp">
+			<Option target="challenge_89"/>
+		</Unit>
+		<Unit filename="/home/cschalk/projects/codeeval/cpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

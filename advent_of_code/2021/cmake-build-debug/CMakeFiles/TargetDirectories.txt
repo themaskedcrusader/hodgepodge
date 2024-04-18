@@ -1,0 +1,4 @@
+/home/cschalk/projects/advent_of_code/2021/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cschalk/projects/advent_of_code/2021/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cschalk/projects/advent_of_code/2021/cmake-build-debug/CMakeFiles/00-test.dir
+/home/cschalk/projects/advent_of_code/2021/cmake-build-debug/CMakeFiles/00.dir
