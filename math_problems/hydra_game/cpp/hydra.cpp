@@ -1,7 +1,7 @@
 #include <iostream>
 
 struct node {
-    unsigned int heads = 1;
+    unsigned long long int heads = 1;
     node *next;
 };
 
@@ -23,7 +23,7 @@ bool are_all_heads_one(node** head) {
     return true;
 }
 
-void lop_head(node** head, int counter) {
+void lop_head(node** head, unsigned long long int counter) {
     if ((*head)->heads != 1) {
         std::cout << "CANNOT LOP HEAD" << std::endl;
         exit(2);
@@ -31,7 +31,7 @@ void lop_head(node** head, int counter) {
 
     node* new_head = (*head)->next;
     if (new_head != nullptr) {
-        free(*head);
+        delete *head;
         (*head) = new_head;
         if ((*head)->next != nullptr) {
             (*head)->next->heads += counter;
@@ -53,7 +53,7 @@ node* get_node_with_most_heads(node** head) {
     return withMostHeads;
 }
 
-void remove_head(node** n, int counter) {
+void remove_head(node** n, unsigned long long int counter) {
     node* parent = (*n)->next;
     (*n)->heads--;
     if (parent != nullptr) {
@@ -66,8 +66,8 @@ bool has_heads(node node1) {
 }
 
 int main() {
-    unsigned int steps = 0;
-    unsigned int previous_steps;
+    unsigned long long int steps = 0;
+    unsigned long long int previous_steps;
     int length = 5;
 
     node *head = nullptr;
