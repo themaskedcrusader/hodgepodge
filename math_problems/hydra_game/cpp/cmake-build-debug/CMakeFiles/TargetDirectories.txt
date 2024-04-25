@@ -1,0 +1,4 @@
+/home/cschalk/projects/hodgepodge/math_problems/hydra_game/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cschalk/projects/hodgepodge/math_problems/hydra_game/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cschalk/projects/hodgepodge/math_problems/hydra_game/cpp/cmake-build-debug/CMakeFiles/hydra_2.dir
+/home/cschalk/projects/hodgepodge/math_problems/hydra_game/cpp/cmake-build-debug/CMakeFiles/hydra.dir
