@@ -31,7 +31,6 @@ void lop_head(node** head, unsigned long long int counter) {
 
     node* new_head = (*head)->next;
     if (new_head != nullptr) {
-        delete *head;
         (*head) = new_head;
         if ((*head)->next != nullptr) {
             (*head)->next->heads += counter;
